@@ -1,8 +1,4 @@
 <?php
-/**
- * @copyright Copyright (c) 2017, StoneEagle.com
- */
-
 namespace App\Command;
 
 use App\Cipher\CipherConstant;
