@@ -3,7 +3,6 @@ namespace App\Command;
 
 use App\Cipher\CipherConstant;
 use App\Cipher\CipherProvider;
-use App\DataConverter\DataConverter;
 use Symfony\Component\Console\Input\InputOption;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Output\OutputInterface;
